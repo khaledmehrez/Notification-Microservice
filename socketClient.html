@@ -1,0 +1,87 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script
+      src="https://cdn.socket.io/4.3.2/socket.io.min.js"
+      integrity="sha384-KAZ4DtjNhLChOB/hxXuKqhMLYvx3b5MlT55xPEiNmREKRzeEm+RVPlTnAn0ajQNs"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      const socketOptions = {
+        transports: ["websocket"],
+        path: "/notification-socket",
+        secure: false,
+        reconnection: true,
+        rejectUnauthorized: true,
+        forceNew:true,
+        auth: {
+          token:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDE5NzFiMTQwNTkzMDIwZWYyMmRlNTYiLCJ1c2VyIjoiNjQxOTcyMGUxNTllODAwNzdlN2Q1Zjc1Iiwicm9sZXMiOlsidXNlciJdLCJpYXQiOjE2NzkzOTM2NTQsImV4cCI6MTY3OTQ4MDA1NH0.4v8EbywaayP6u2UyPXgD5_AMkhOkksNCyxPs30kjvRg"
+        }
+      };
+      const socket = io('https://notification-ms.dev.lovester.tech', socketOptions);
+      socket.on('connect_error', function(e) {
+
+        console.log('connect_error', e);
+      });
+      socket.on('connect', function() {
+        console.log('Connected');
+        // socket.emit('onConnect', {});
+      });
+      socket.on('afterConnect', function(data) {
+        console.log('afterConnect', data);
+      });
+      socket.on('new-match', function(data) {
+        console.log('match', data);
+      });
+      socket.on('new-like', function(data) {
+        console.log('like', data);
+      });
+      socket.on('new-message', function(data) {
+        console.log('msg', data);
+      });
+      socket.on('message-reaction', function(data) {
+        console.log('react', data);
+      });
+      socket.on('message-seen', function(data) {
+        console.log('seen', data);
+      });
+      socket.on('disconnect', function(data) {
+        console.log('Disconnected',data);
+      });
+      socket.on('test', function(data) {
+        console.log('seen', data);
+      });
+    </script>
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>USER--1</h1>
+      <p>Socket Testing</p>
+    </div>
+  </body>
+</html>
+
+
+<style>
+  /* Style the body */
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+
+  /* Header/Logo Title */
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #a64d79;
+    color: white;
+    font-size: 30px;
+  }
+
+  /* Page Content */
+  .content {
+    padding: 20px;
+  }
+</style>

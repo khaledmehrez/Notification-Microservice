@@ -1,0 +1,91 @@
+
+
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script
+    src="https://cdn.socket.io/4.3.2/socket.io.min.js"
+    integrity="sha384-KAZ4DtjNhLChOB/hxXuKqhMLYvx3b5MlT55xPEiNmREKRzeEm+RVPlTnAn0ajQNs"
+    crossorigin="anonymous"
+  ></script>
+  <script>
+    const socketOptions = {
+      transports: ['websocket'],
+      path: "/notification-socket",
+      secure: false,
+      reconnection: true,
+      rejectUnauthorized: true,
+      auth: {
+        token:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmQ1N2ZjOTljOTk4MDZkZWI3MzM3ODciLCJ1c2VyIjoiNjJkNTdmZDU4NjNmYTdjMjNkOTU2YWYwIiwicm9sZXMiOlsidXNlciJdLCJpYXQiOjE2NzMwMjMxNDgsImV4cCI6MTY3MzEwOTU0OH0.6rFOq8JxM9koVkGnz6JXeE7WROhGxd0EZ6uTWi_354k'
+      },
+    };
+    const socket = io('https://notification-ms.lovester.tech', socketOptions);
+    socket.on('connect_error', function(e) {
+      console.log('error', e);
+    });
+    socket.on('connect', function() {
+      console.log('Connected');
+      socket.emit('onConnect', {});
+    });
+    socket.on('afterConnect', function(data) {
+      console.log('afterConnect', data);
+    });
+    socket.on('new-match', function(data) {
+      console.log('newMatch', data);
+    });
+    socket.on('new-like', function(data) {
+      console.log('like', data);
+    });
+    socket.on('new-message', function(data) {
+      console.log('msg', data);
+    });
+    socket.on('welcome', function(data) {
+      console.log('welcome', data);
+    });
+    socket.on('default-config', function(data) {
+      console.log('default-config', data);
+    });
+
+    socket.on('message-reaction', function(data) {
+      console.log('react', data);
+    });
+    socket.on('message-seen', function(data) {
+      console.log('seen', data);
+    });
+    socket.on('disconnect', function() {
+      console.log('Disconnected');
+    });
+  </script>
+</head>
+
+<body>
+<div class="header">
+  <h1>USER--2</h1>
+  <p>Socket Testing</p>
+</div>
+</body>
+</html>
+
+
+<style>
+  /* Style the body */
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+
+  /* Header/Logo Title */
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  /* Page Content */
+  .content {
+    padding: 20px;
+  }
+</style>

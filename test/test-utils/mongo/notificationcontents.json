@@ -1,0 +1,382 @@
+[
+  {
+    "_id": "622f6799858b7f58628e010f",
+    "tag": "match",
+    "contentForMany": {
+      "en": "BOOM💥You have (n) new matches! ",
+      "fr": "BOOM💥You have (n) new matches! ",
+      "ar": "BOOM💥You have (n) new matches! "
+    },
+    "contentForOne": {
+      "en": "BOOM💥You have a new match! ",
+      "fr": "BOOM💥You have a new match! )",
+      "ar": "BOOM💥You have a new match! "
+    },
+    "name": "match",
+    "__v": 0
+  },
+  {
+    "_id": "6231bbf6338586fdf82a30e6",
+    "tag": "like",
+    "contentForMany": {
+      "en": "You have (n) new likes! ",
+      "fr": "You have (n) new likes! ",
+      "ar": "You have (n) new likes! "
+    },
+    "contentForOne": {
+      "en": "you have a new like ",
+      "fr": "You have a new like! ",
+      "ar": "You have a new like! "
+    },
+    "name": "like",
+    "createdAt": {
+      "$date": "2022-03-16T10:29:10.364Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-16T10:29:10.364Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62386f4f647fd140dd010ade",
+    "contentForMany": {
+      "en": "wecome to lovester",
+      "fr": "wecome to lovester",
+      "ar": "wecome to lovester"
+    },
+    "contentForOne": {
+      "en": "welcome to lovester",
+      "fr": "welcome to lovester",
+      "ar": "welcome to lovester"
+    },
+    "name": "welcome",
+    "createdAt": "2022-03-21T12:27:59.152Z",
+    "updatedAt": "2022-03-21T12:27:59.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "62386f5b647fd140dd010ae0",
+    "content": {
+      "en": "jkdrik",
+      "fr": "ff",
+      "ar": "ff"
+    },
+    "name": "default-config",
+    "createdAt": {
+      "$date": "2022-03-21T12:28:11.572Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-21T12:28:11.572Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "6239ce157c84d6c6e740c678",
+    "tag": "message",
+    "contentForMany": {
+      "en": "You received (n) new messages (FROM-X)",
+      "fr": "You received (n) new messages (FROM-X)",
+      "ar": "You received (n) new messages (FROM-X)"
+    },
+    "contentForOne": {
+      "en": "You received a new message (FROM-X)",
+      "fr": "You received a new message (FROM-X)",
+      "ar": "You received a new message (FROM-X)"
+    },
+    "name": "message",
+    "createdAt": {
+      "$date": "2022-03-16T10:29:10.364Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-16T10:29:10.364Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62503d66f605047a73de3d67",
+    "tag": "peak-day",
+    "contentForMany": {
+      "en": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances",
+      "fr": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances",
+      "ar": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances"
+    },
+    "contentForOne": {
+      "en": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances",
+      "fr": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances",
+      "ar": " Some people call it Thursday, we like to call it “Peak Day”💫 Activate “Rise Up” today to increase your match chances!"
+    },
+    "name": "peak-day",
+    "createdAt": "1649425766817",
+    "updatedAt": "1649425766817",
+    "__v": 0
+  },
+  {
+    "_id": "6252fa497c2070f133602e04",
+    "tag": "share-lovester",
+    "contentForMany": {
+      "en": " They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) ",
+      "fr": "They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) ",
+      "ar": "They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) "
+    },
+    "contentForOne": {
+      "en": " They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) ",
+      "fr": "They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) ",
+      "ar": "They say “Good Friends Follow You Anywhere” - Would your friends follow you to Lovester? Invite them now and get rewards (for both of you!!) "
+    },
+    "name": "share-lovester",
+    "createdAt": "1649605193848",
+    "updatedAt": "1649605193848",
+    "__v": 0
+  },
+  {
+    "_id": "62531a25da58e54bd9e9a281",
+    "tag": "tips",
+    "contentForMany": {
+      "en": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉  ",
+      "fr": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉   ",
+      "ar": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉   "
+    },
+    "contentForOne": {
+      "en": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉  ",
+      "fr": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉   ",
+      "ar": "Time to step up the game! Make your profile stand out by adding more pictures and including a witty bio 😉   "
+    },
+    "name": "tips",
+    "createdAt": "1649613349845",
+    "updatedAt": "1649613349845",
+    "__v": 0
+  },
+  {
+    "_id": "62541a0a93cb32665721fb7b",
+    "tag": "go-back",
+    "contentForMany": {
+      "en": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!  ",
+      "fr": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!   ",
+      "ar": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!   "
+    },
+    "contentForOne": {
+      "en": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!  ",
+      "fr": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!   ",
+      "ar": "“I love you (TO-X)” this could have been you but you haven’t been matching for a while… Get back to the game!   "
+    },
+    "name": "go-back",
+    "createdAt": "1649678858547",
+    "updatedAt": "1649678858547",
+    "__v": 0
+  },
+  {
+    "_id": "625422a9f28f7c961ce38ea0",
+    "tag": "birthday",
+    "contentForMany": {
+      "en": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code: (V-0)   ",
+      "fr": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code: (V-0)   ",
+      "ar": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code:(V-0)   "
+    },
+    "contentForOne": {
+      "en": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code: (V-0)   ",
+      "fr": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code: (V-0)   ",
+      "ar": "Today, we celebrate YOU! Happy (n) amazing trips around the sun, (TO-X) ! Enjoy (n)% off any purchase you make until midnight with the code: (V-0)   "
+    },
+    "name": "birthday",
+    "createdAt": "1649681066004",
+    "updatedAt": "1649681066004",
+    "__v": 0
+  },
+  {
+    "_id": "62543868c3377d5e341618b4",
+    "tag": "gift",
+    "contentForMany": {
+      "en": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉",
+      "fr": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉",
+      "ar": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉"
+    },
+    "contentForOne": {
+      "en": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉",
+      "fr": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉",
+      "ar": "GOTD stands for “Gift Of The Day” and it’s already waiting for you! One Free (V-0) available for you to use now. Use it wisely 😉"
+    },
+    "name": "gift",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1649686633001"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1649686633001"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62543d43952899ce7a87e3ec",
+    "tag": "retaking-personality-test",
+    "contentForMany": {
+      "en": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! ",
+      "fr": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! ",
+      "ar": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! "
+    },
+    "contentForOne": {
+      "en": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! ",
+      "fr": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! ",
+      "ar": "LAST CALL! You can now take the Emotional DNA Test again, but make sure to take your time and answer honestly to improve your recommendations! "
+    },
+    "name": "retaking-personality-test",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1649687875437"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1649687875437"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "6254437404603a1dedb8b91d",
+    "tag": "plan-expiration",
+    "contentForMany": {
+      "en": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY ",
+      "fr": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY ",
+      "ar": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY "
+    },
+    "contentForOne": {
+      "en": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY ",
+      "fr": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY ",
+      "ar": "Your Premium Journey with Lovester is Almost Over 😢  Your subscription is about to expire. Only (n) days left! Renew TODAY "
+    },
+    "name": "plan-expiration",
+    "createdAt": "1649689460458",
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1649689460458"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "6255496ad2e4276ad77683db",
+    "tag": "monday-likes",
+    "contentForMany": {
+      "en": "New Monday, New Week, New Likes✨ You received (n) new likes, start your day by checking them out!",
+      "fr": "New Monday, New Week, New Likes✨ You received (n) new likes, start your day by checking them out!",
+      "ar": "New Monday, New Week, New Likes✨ You received (n) new likes, start your day by checking them out!"
+    },
+    "contentForOne": {
+      "en": "New Monday, New Week, New Likes✨ You received a new like, start your day by checking them out!",
+      "fr": "New Monday, New Week, New Likes✨ You received a new like, start your day by checking them out!",
+      "ar": "New Monday, New Week, New Likes✨ You received a new like, start your day by checking them out!)"
+    },
+    "name": "monday-likes",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1649756522933"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1649756522933"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62616788b95cc3455e62ff4f",
+    "tag": "not-texted-matches",
+    "contentForMany": {
+      "en": "Hey! You have (n) matches waiting for you, don’t forget to text them!",
+      "fr": "Hey! You have (n) matches waiting for you, don’t forget to text them!",
+      "ar": "Hey! You have (n) matches waiting for you, don’t forget to text them!"
+    },
+    "contentForOne": {
+      "en": "Hey! You have a match waiting for you, don’t forget to text them!",
+      "fr": "Hey! You have a match waiting for you, don’t forget to text them!",
+      "ar": "Hey! You have a match waiting for you, don’t forget to text them!"
+    },
+    "name": "not-texted-matches",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1649955448470"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1649955448470"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62629238feb9e4da536eab4a",
+    "tag": "nsfw",
+    "contentForMany": {
+      "en": "photo approved",
+      "fr": "photo approved",
+      "ar": "photo approved"
+    },
+    "contentForOne": {
+      "en": "photo approved",
+      "fr": "photo approved",
+      "ar": "photo approved"
+    },
+    "name": "nsfw",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1650627128028"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1650627128028"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "62deb6591063b7c2cc63ab51",
+    "contentForMany": {
+      "en": "photo declined",
+      "fr": "photo declined",
+      "ar": "photo declined"
+    },
+    "contentForOne": {
+      "en": "photo declined",
+      "fr": "photo declined",
+      "ar": "photo declined"
+    },
+    "name": "id-verification-declined",
+    "__v": 0
+  },
+  {
+    "_id": "62deb6591063b7c2cc63ab53",
+    "contentForMany": {
+      "en": "photo pending",
+      "fr": "photo pending",
+      "ar": "photo pending"
+    },
+    "contentForOne": {
+      "en": "photo pending",
+      "fr": "photo pending",
+      "ar": "photo pending"
+    },
+    "name": "id-verification-pending",
+    "__v": 0
+  },
+  {
+    "_id": "62deb6591063b7c2cc63ab55",
+    "contentForMany": {
+      "en": "photo accepted",
+      "fr": "photo accepted",
+      "ar": "photo accepted"
+    },
+    "contentForOne": {
+      "en": "photo accepted",
+      "fr": "photo accepted",
+      "ar": "photo accepted"
+    },
+    "name": "id-verification-accepted",
+    "__v": 0
+  }
+]

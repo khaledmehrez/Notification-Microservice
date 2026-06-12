@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6233446ca1a6a81da774ae48",
+    "personalityTestTime": 254,
+    "user": "62221be39537739e8674d981",
+    "__v": 0,
+    "appUse": {
+      "averageUse": 7,
+      "startAt": "2022-03-18T08:38:09.991Z"
+    },
+    "startedAt": "2022-03-22T07:11:08.503Z"
+  },
+  {
+    "_id": "6233446ca1a6a81da774ae49",
+    "personalityTestTime": 301,
+    "user": "62221be39537739e8674d982",
+    "__v": 0,
+    "appUse": {
+      "averageUse": 7,
+      "startAt": "2022-03-18T08:38:09.991Z"
+    },
+    "startedAt": "2022-03-22T07:11:08.503Z"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "_id": "622777d43e18230e8fdf68c1",
+    "user2Interaction": 0,
+    "user1Interaction": 5,
+    "sociologyReport": [
+      "621cded23ff0f4d2c83d3567",
+      "621ce0c93ff0f4d2c83d356f"
+    ],
+    "compatibilityReport": {
+      "user1Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      },
+      "user2Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      }
+    },
+    "compatibilityScore": 65.64637134150657,
+    "type": "SCIENCE",
+    "state": 1,
+    "user2": "62221be39537739e8674d982",
+    "user1": "62221be39537739e8674d981",
+    "createdAt": "2022-04-06T14:02:11.296Z",
+    "updatedAt": "2022-04-06T14:02:11.296Z",
+    "__v": 0
+  },
+  {
+    "_id": "622777d43e18230e8fdf68d1",
+    "user2Interaction": 0,
+    "user1Interaction": 5,
+    "sociologyReport": [
+      "621cded23ff0f4d2c83d3567",
+      "621ce0c93ff0f4d2c83d356f"
+    ],
+    "compatibilityReport": {
+      "user1Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      },
+      "user2Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      }
+    },
+    "compatibilityScore": 65.64637134150657,
+    "type": "SCIENCE",
+    "state": 1,
+    "user2": "62221be39537739e8674d982",
+    "user1": "62221be39537739e8674d984",
+    "createdAt": "2022-04-06T14:02:11.296Z",
+    "updatedAt": "2022-04-06T14:02:11.296Z",
+    "__v": 0
+  },
+  {
+    "_id": "622777d43e18230e8fdf68c2",
+    "user2Interaction": 5,
+    "user1Interaction": 5,
+    "sociologyReport": [
+      "621cded23ff0f4d2c83d3567",
+      "621ce0c93ff0f4d2c83d356f"
+    ],
+    "compatibilityReport": {
+      "user1Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      },
+      "user2Report": {
+        "open": "61fa7ac053f45574382da20e",
+        "agree": "61fa811153f45574382da263",
+        "extro": "61fa851153f45574382da287",
+        "cons": "61fa7db953f45574382da235"
+      }
+    },
+    "compatibilityScore": 65.64637134150657,
+    "type": "SCIENCE",
+    "state": 5,
+    "user2": "62221be39537739e8674d983",
+    "user1": "62221be39537739e8674d981",
+    "createdAt": "2022-04-06T14:02:11.296Z",
+    "updatedAt": "2022-04-06T14:02:11.296Z",
+    "__v": 0
+  }
+]

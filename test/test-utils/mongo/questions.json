@@ -1,0 +1,1135 @@
+[{
+    "_id": "61f7d5ef37fd6f498d5a13ea",
+    "name": "personality1",
+    "title": {
+      "en": "personality1",
+      "fr": "personality1",
+      "ar": "personality1"
+    },
+    "index": 0,
+    "__v": 0,
+    "questions": [
+      {
+        "score": 1,
+        "letters": "e",
+        "title": {
+          "en": "I am an adrenaline junkie and I want to try all kind of thrilling activities at least once ",
+          "fr": "Je suis une personne pleine de vitalité et je cherche à vivre toutes expériences exaltantes au moins une fois. ",
+          "ar": "أنا انسان مغامر وأريد تجربة جميع أنواع الأنشطة المثيرة مرة واحدة على الأقل"
+        },
+        "_id": "61f971d85353dd48fcdc8fb6",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "e",
+        "title": {
+          "en": "I enjoy making new friends and feel comfortable around people ",
+          "fr": "J'aime bien établir de nouvelles amitiés et je me sens à l'aise avec les gens. ",
+          "ar": "أستمتع بتكوين صداقات جديدة وأشعر بالراحة مع الناس "
+        },
+        "_id": "61f971df5353dd48fcdc8fb9",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "e",
+        "title": {
+          "en": "I value my safety and wouldn't engage in crazy and dangerous activities (car racing, bungee jumping, sky diving, etc) ",
+          "fr": "Je veille à ma sûreté et ne me lancerais pas dans des activités folles et dangereuses (courses de voitures, saut à l'élastique, parachutisme, etc.). ",
+          "ar": "أقلق كثيرا على سلامتي ولن أشارك أبدا في أنشطة مجنونة وخطيرة (سباق السيارات ، القفز بالحبال ، القفز بالمظلات ، إلخ)"
+        },
+        "_id": "61f971e75353dd48fcdc8fbd",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "o",
+        "title": {
+          "en": "I spend time reflecting on things and tend to daydream so often",
+          "fr": "Je consacre du temps pour réfléchir à certaines choses et j'ai tendance à me laisser aller à la rêverie.",
+          "ar": "أقضي الوقت في التفكير في الأشياء وأميل إلى أحلام اليقظة كثيرًا"
+        },
+        "_id": "61f971ef5353dd48fcdc8fc2",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "o",
+        "title": {
+          "en": "I like variety and trying new things (taste new food, learn a new language, earn a new skill, etc)",
+          "fr": "J'aime la polyvalence et les nouvelles expériences (goûter de nouveaux aliments, apprendre une nouvelle langue, maîtriser une nouvelle compétence, etc.)",
+          "ar": "أحب التنوع و أن أجرب أشياء جديدة (تذوق طعامً جديدًا ، وتعلم لغة جديدة ، واكتسب مهارة جديدة ، وما إلى ذلك)"
+        },
+        "_id": "61f971fa5353dd48fcdc8fcf",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "o",
+        "title": {
+          "en": "I love reading complex and challenging material",
+          "fr": "J'aime bien lire des documents complexes et qui présentent des défis.",
+          "ar": "أحب قراءة المواد المعقدة والصعبة و أحاول أن أمرن عقلي ليفهمها"
+        },
+        "_id": "61f972385353dd48fcdc8fd7",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "o",
+        "title": {
+          "en": "I focus on the here and now and would rely on my experience rather than my imagination",
+          "fr": "Je me focalise sur le moment présent et je préfère recourir à mon expérience plutôt qu'à mon imagination.",
+          "ar": "أركز على الواقع و أعتمد على تجربتي بدلاً من خيالي"
+        },
+        "_id": "61f972485353dd48fcdc8fdf",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "o",
+        "title": {
+          "en": "I am a creature of habit and like having a routine",
+          "fr": "Je suis une personne qui prend des habitudes et qui apprécie la régularité et la routine.",
+          "ar": "أنا شخص ذو عادات وأحب الالتزام بروتين معين"
+        },
+        "_id": "61f9724e5353dd48fcdc8fe8",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "o",
+        "title": {
+          "en": "I avoid philosophical and abstract discussions",
+          "fr": "J'évite les discussions philosophiques et abstraites.",
+          "ar": "أتجنب المناقشات الفلسفية والمجردة إذ لا أرى أي هدف أو استفادة منها"
+        },
+        "_id": "61f972575353dd48fcdc8ff2",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "c",
+        "title": {
+          "en": "I try to avoid making mistakes as much as I can, and like to always have a backup plan",
+          "fr": "J'essaie d'éviter au maximum de commettre des erreurs et j'aime avoir toujours un plan B.",
+          "ar": "أحاول تجنب الوقوع في الأخطاء بقدر ما أستطيع ، وأحب أن يكون لدي دائمًا خطة احتياطية"
+        },
+        "_id": "61f972625353dd48fcdc8ffd",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "c",
+        "title": {
+          "en": "I plunge into tasks with all of my heart and tend to do more of what's expected from me ",
+          "fr": "Je me lance à fond dans les tâches et j'ai tendance à accomplir plus que ce que l'on attend de moi. ",
+          "ar": "إنغمس في المهام من كل قلبي وأميل إلى فعل أكثر مما هو متوقع مني"
+        },
+        "_id": "61f972695353dd48fcdc9009",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "c",
+        "title": {
+          "en": "I like order, I make plans and To-Do-Lists and always stick to them",
+          "fr": "J'aime être ordonné, j'élabore des plans et des \"To Do-Lists\" et je les applique toujours.",
+          "ar": "أنا أحب التنظيم ، فأنا أضع الخطط وقوائم المهام وألتزم بها دائمًا"
+        },
+        "_id": "61f972735353dd48fcdc9016",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "c",
+        "title": {
+          "en": "I live by the motto of \"You Only Live Once\" and get myself going with the flow",
+          "fr": "On ne vit qu'une fois est mon credo et je suis le rythme de la vie.",
+          "ar": "أعيش بشعار \"أنت تعيش مرة واحدة فق\"وأترك نفسي مع التيار"
+        },
+        "_id": "61f9727a5353dd48fcdc9024",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "c",
+        "title": {
+          "en": "I need a push to get started in a task and always get things done on last-minute",
+          "fr": "Il me faut un coup de pouce pour me lancer dans une tâche et je fais toujours les choses à la dernière minute.",
+          "ar": "أحتاج إلى دفعة أو محفز لبدء مهمة وعادة ما أقوم بأعمالي في اللحظة الأخيرة"
+        },
+        "_id": "61f9727f5353dd48fcdc9033",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "c",
+        "title": {
+          "en": "I leave my belongings around and don't mind staying in a messy place. ",
+          "fr": "Je laisse mes affaires éparpillées partout et je ne me soucie pas de rester dans un endroit brouillé.",
+          "ar": "أترك أشيائي و متعلقاتي مبعثرة ولا أمانع في البقاء في مكان غير مرتب"
+        },
+        "_id": "61f9728c5353dd48fcdc9043",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "n",
+        "title": {
+          "en": "I don't have a problem with being on stage or delivering a public speech in a large group of people ",
+          "fr": "Je ne ressens aucun problème à être sur scène ou à délivrer un discours public devant une foule de personnes.",
+          "ar": "ليس لدي مشكلة في أن أكون على المسرح أو ألقي خطاب عام في مجموعة كبيرة من الناس"
+        },
+        "_id": "61f972955353dd48fcdc9054",
+        "options": []
+      }
+    ]
+  },{
+    "_id": "61f7d60237fd6f498d5a13ec",
+    "name": "personality2",
+    "title": {
+      "en": "personality2",
+      "fr": "personality2",
+      "ar": "personality2"
+    },
+    "index": 1,
+    "__v": 0,
+    "questions": [
+      {
+        "score": 1,
+        "letters": "o",
+        "title": {
+          "en": "I believe that laws, societal norms and traditions should be adapted to the evolution of the modern world",
+          "fr": "Je pense que les lois, les normes sociétales et les traditions devraient être ajustées à l'évolution du monde moderne.",
+          "ar": "أعتقد أن القوانين والأعراف والتقاليد المجتمعية يجب أن تتكيف مع تطور العالم الحديث"
+        },
+        "_id": "61f972ab5353dd48fcdc9066",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "o",
+        "title": {
+          "en": "I believe that new generations have drifted apart from their roots and traditions under the name of \"freedom\" ",
+          "fr": "Je pense que les nouvelles générations ont délaissé leurs racines et leurs traditions au nom de la \"liberté\". ",
+          "ar": "أعتقد أن الأجيال الجديدة قد ابتعدت عن جذورها وتقاليدها تحت اسم \"الحرية\""
+        },
+        "_id": "61f972b35353dd48fcdc9069",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "a",
+        "title": {
+          "en": "I don't easily trust people and believe everyone has hidden motives",
+          "fr": "Je ne fais pas facilement confiance aux gens et je crois que chacun a des intentions cachées.",
+          "ar": "أنا لا أثق في الناس بسهولة وأعتقد أن كل شخص لديه دوافع خفية"
+        },
+        "_id": "61f972bb5353dd48fcdc906d",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "a",
+        "title": {
+          "en": "I don't allocate much time for others, I think everyone should be able to deal with their problems alone",
+          "fr": "Je ne prête pas beaucoup d'attention aux autres, je pense que chacun est capable de régler ses propres problèmes.",
+          "ar": "لا أخصص الكثير من الوقت للآخرين ، أعتقد أنه يجب أن يتمكن الجميع من التعامل مع مشاكلهم بمفردهم"
+        },
+        "_id": "61f972c35353dd48fcdc9072",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "a",
+        "title": {
+          "en": "Believe deep inside that I'm better than others",
+          "fr": "Je suis convaincu(e) au plus profond de moi que je suis meilleur(e) que les autres.",
+          "ar": "أنا مقتنع في داخلي بأنني أفضل من الآخرين"
+        },
+        "_id": "61f972cc5353dd48fcdc9078",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "a",
+        "title": {
+          "en": "I am convinced all humans are inherently good (there's a good side in everyone)",
+          "fr": "Je suis convaincu que tous les humains sont naturellement bons (il y a un bon côté en chacun)",
+          "ar": "أنا مقتنع بأن جميع البشر طيبون بطبعهم (هناك جانب جيد في كل شخص)"
+        },
+        "_id": "61f972d35353dd48fcdc907f",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "a",
+        "title": {
+          "en": "I avoid getting into controversial topics or conversations that could cause disagreement between me and others",
+          "fr": "J'évite de me lancer dans des sujets polémiques ou des conversations qui pourraient créer des tensions entre moi et les autres.",
+          "ar": "أتجنب الدخول في مواضيع أو محادثات شائكة او مثيرة للجدل قد تسبب في اختلاف الرأي بيني وبين الآخرين"
+        },
+        "_id": "61f972da5353dd48fcdc9087",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "a",
+        "title": {
+          "en": "I am concerned about others and feel it's my responsibility to help them ",
+          "fr": "Je me soucie des autres et me sens responsable de les aider. ",
+          "ar": "أنا قلق بشأن الآخرين وأشعر أنه من مسؤوليتي مساعدتهم"
+        },
+        "_id": "61f972e05353dd48fcdc9090",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "a",
+        "title": {
+          "en": "I don't talk a lot about my achievements or successes in front of others",
+          "fr": "Je ne parle pas beaucoup de mes réalisations ni de mes succès devant les autres.",
+          "ar": "لا أتباهى كثيرًا  بإنجازاتي أو نجاحاتي أمام الآخرين"
+        },
+        "_id": "61f972e85353dd48fcdc909a",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "a",
+        "title": {
+          "en": "I sympathize a lot with people that are worse-off than me and often feel sad when I see people suffering",
+          "fr": "Je me montre très solidaire des personnes qui sont en moins bonne situation que moi et je me sens souvent triste lorsque je vois des gens souffrir.",
+          "ar": "أنا أتعاطف كثيرًا مع الأشخاص الذين حالهم أسوا من حالي ، وغالبًا ما أشعر بالحزن عندما أرى الناس يعانون"
+        },
+        "_id": "61f972ef5353dd48fcdc90a5",
+        "options": []
+      }
+    ]
+  },{
+    "_id":"61f7d61137fd6f498d5a13ee",
+    "name": "personality3",
+    "title": {
+      "en": "personality3",
+      "fr": "personality3",
+      "ar": "personality3"
+    },
+    "index": 2,
+    "__v": 0,
+    "questions": [
+      {
+        "score": 1,
+        "letters": "e",
+        "title": {
+          "en": "I take charge and try to lead others ",
+          "fr": "Je prends les choses en main et cherche à encadrer les autres ",
+          "ar": "دائما ما أتولى زمام الأمور وأحاول قيادة الآخرين "
+        },
+        "_id": "61f970f55353dd48fcdc8f33",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "e",
+        "title": {
+          "en": "I am a cheerful person and I always radiate joy to people around me ",
+          "fr": "Je suis quelqu'un de joyeux et je fais toujours rayonner la joie autour de moi. ",
+          "ar": "أنا شخص مرح ودائمًا ما أنشر الطاقة الايجابية من حولي"
+        },
+        "_id": "61f970f55353dd48fcdc8f34",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "e",
+        "title": {
+          "en": "I don't like to draw attention to myself",
+          "fr": "Je n'aime pas me mettre en scène.",
+          "ar": "لا أحب أن ألفت الانتباه إلى نفسي "
+        },
+        "_id": "61f9711e5353dd48fcdc8f38",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "e",
+        "title": {
+          "en": "I like to take things seriously and don't like it when people joke around about everything ",
+          "fr": "Je préfère prendre les choses au sérieux et je ne tolère pas les plaisanteries sur tout et n'importe quoi. ",
+          "ar": "أحب أن آخذ الأمور على محمل الجد ولا يعجبني عندما يمزح الناس حول كل شيء"
+        },
+        "_id": "61f9712d5353dd48fcdc8f3d",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "e",
+        "title": {
+          "en": "I don't open up about my feelings or problems with people easily and prefer to have time alone",
+          "fr": "Je ne dévoile pas facilement mes sentiments ou mes problèmes aux autres et je préfère avoir du temps pour moi.",
+          "ar": "أنا لا أتحدث عن مشاعري أو مشاكلي مع الناس بسهولة وعادة ما أفضل قضاء الوقت بمفردي أو مع المقربين مني فقط"
+        },
+        "_id": "61f9715d5353dd48fcdc8f43",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "a",
+        "title": {
+          "en": "People say I have a sharp tongue (You tell the truth even when it hurts)",
+          "fr": "On me trouve plutôt une personne tranchante (je dis la vérité même si elle fait mal).",
+          "ar": "يقول الناس بأن لساني لاذع (أقول الحقيقة حتى و لو كانت مؤلمة)"
+        },
+        "_id": "61f971695353dd48fcdc8f4a",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "a",
+        "title": {
+          "en": "I have a difficulty relating to others' feelings",
+          "fr": "Je me sens incapable de partager les sentiments des autres",
+          "ar": "أجد صعوبة في الاحساس بمشاعر الآخرين ومواساتهم"
+        },
+        "_id": "61f971745353dd48fcdc8f52",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "n",
+        "title": {
+          "en": "I worry about things and fear that they might go wrong ",
+          "fr": "Je suis préoccupé(e) par certaines choses et je crains qu'elles tournent mal. ",
+          "ar": "أنا قلق بشأن الأشياء وأخشى أن تحول الأوضاع الى منحى سيئ"
+        },
+        "_id": "61f971805353dd48fcdc8f5b",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "n",
+        "title": {
+          "en": "I tend to overreact to situations (exple: lose my temper, stress about trivial matters, etc)",
+          "fr": "J'ai tendance à dramatiser les situations (perdre mon sang-froid, stresser pour des petits riens).",
+          "ar": "أميل إلى المبالغة في رد الفعل تجاه المواقف (على سبيل المثال: فقدان أعصابي ، والتوتر بشأن الأمور التافهة ، وما إلى ذلك)"
+        },
+        "_id": "61f971975353dd48fcdc8f65",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "n",
+        "title": {
+          "en": "I have frequent mood swings",
+          "fr": "J'ai souvent des fluctuations d'humeur.",
+          "ar": "لدي تقلبات مزاجية متكررة"
+        },
+        "_id": "61f9719f5353dd48fcdc8f70",
+        "options": []
+      },
+      {
+        "score": -1,
+        "letters": "n",
+        "title": {
+          "en": "I tend to feel awkward or intimdated in unfamiliar situations or with unfamiliar people ",
+          "fr": "J'ai souvent tendance à me sentir gêné(e) ou intimidé(e) dans des situations ou avec des personnes que je ne connais pas. ",
+          "ar": "أميل إلى الشعور بالحرج أو الرهب في المواقف غير المألوفة أو مع أشخاص غير مألوفين"
+        },
+        "_id": "61f971a85353dd48fcdc8f7c",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "n",
+        "title": {
+          "en": "I don't think I have big problems to worry about in my life, things are rather going well for me",
+          "fr": "Je ne pense pas avoir de gros problèmes à affronter dans ma vie, tout se passe plutôt bien pour moi.",
+          "ar": "لا أعتقد أن لدي مشاكل كبيرة لأقلق بشأنها في حياتي ، فالأشياء تسير على ما يرام بالنسبة لي"
+        },
+        "_id": "61f971b05353dd48fcdc8f89",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "n",
+        "title": {
+          "en": "I'm not easily annoyed and even if I am, I usually calm down very quickly",
+          "fr": "Je ne suis pas facilement gêné(e) et même si je le suis, je me calme généralement très vite.",
+          "ar": "لا يمكن ازعاجي أو اغضابي بسهولة ، وحتى لو كنت كذلك ، فأنا عادة ما أهدأ بسرعة كبيرة"
+        },
+        "_id": "61f971b65353dd48fcdc8f97",
+        "options": []
+      },
+      {
+        "score": 1,
+        "letters": "n",
+        "title": {
+          "en": "I have a lot of happy thoughts and am pleased about myself in general",
+          "fr": "J'ai toujours des pensées gaies et je suis généralement satisfait(e) de moi-même.",
+          "ar": "لدي الكثير من الأفكار السعيدة وأنا ممتن من نفسي بشكل عام"
+        },
+        "_id": "61f971be5353dd48fcdc8fa6",
+        "options": []
+      }
+    ]
+  },{
+    "_id": "61f9281418c88c5b4c4f633a",
+    "name": "loveLanguage",
+    "title": {
+      "en": "loveLanguage",
+      "fr": "loveLanguage",
+      "ar": "loveLanguage"
+    },
+    "index": 3,
+    "__v": 0,
+    "questions": [
+      {
+        "letters": "AE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695a7",
+        "options": [
+          {
+            "letter": "A",
+            "title": {
+              "en": "My partner holds my hands and hugs me frequently",
+              "fr": "Mon/ma partenaire me tient la main et me câline fréquemment."
+            },
+            "_id": "61fac1c8742b70b3aa9695c6"
+          },
+          {
+            "letter": "E",
+            "title": {
+              "en": "My partner holds my hands and hugs me frequently",
+              "fr": "Mon/ma partenaire me tient la main et me câline fréquemment."
+            },
+            "_id": "61fac1c8742b70b3aa9695c7"
+          }
+        ]
+      },
+      {
+        "letters": "BD",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695a8",
+        "options": [
+          {
+            "letter": "B",
+            "title": {
+              "en": " My partner shares things and feelings with me that no one else knows",
+              "fr": "Mon partenaire me confie des trucs et des sentiments dont nul autre ne pourra prendre connaissance."
+            },
+            "_id": "61fac2cb742b70b3aa9695f0"
+          },
+          {
+            "letter": "D",
+            "title": {
+              "en": "My partner helps me out in a project or important task",
+              "fr": "Mon/ma partenaire me soutient lors d'un projet ou d'une tâche importante."
+            },
+            "_id": "61fac2cb742b70b3aa9695f1"
+          }
+        ]
+      },
+      {
+        "letters": "CB",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695a9",
+        "options": [
+          {
+            "letter": "C",
+            "title": {
+              "en": "My partner comforts me during difficult times",
+              "fr": "Mon/ma partenaire me console dans les moments pénibles."
+            },
+            "_id": "61fac32a742b70b3aa969606"
+          },
+          {
+            "letter": "B",
+            "title": {
+              "en": "My partner discusses relationship problems honestly with me",
+              "fr": "Mon/ma partenaire aborde ouvertement les petits problèmes relationnels avec moi."
+            },
+            "_id": "61fac32a742b70b3aa969607"
+          }
+        ]
+      },
+      {
+        "letters": "DE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695aa",
+        "options": [
+          {
+            "letter": "D",
+            "title": {
+              "en": "My partner helps me take an important decision",
+              "fr": "Mon/ma partenaire me soutient dans la prise d'une décision importante"
+            },
+            "_id": "61fac3b4742b70b3aa96961e"
+          },
+          {
+            "letter": "E",
+            "title": {
+              "en": "My partner hugs me to show me he/she’s here for me",
+              "fr": "Mon/ma partenaire me serre dans ses bras pour me montrer qu'il/elle est là pour moi."
+            },
+            "_id": "61fac3b4742b70b3aa96961f"
+          }
+        ]
+      },
+      {
+        "letters": "EC",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695ab",
+        "options": [
+          {
+            "letter": "E",
+            "title": {
+              "en": "My partner holds my hands and plays with my hair",
+              "fr": "Mon/ma partenaire me tient les mains et me caresse les cheveux."
+            },
+            "_id": "61fac436742b70b3aa969638"
+          },
+          {
+            "letter": "C",
+            "title": {
+              "en": "My partner leaves me cute “I love you” notes",
+              "fr": "Mon/ma partenaire me fait des petits mots tout mignons comme 'je t'aime'."
+            },
+            "_id": "61fac436742b70b3aa969639"
+          }
+        ]
+      },
+      {
+        "letters": "BE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695ac",
+        "options": [
+          {
+            "letter": "B",
+            "title": {
+              "en": "My partner and I turn to each other for advice",
+              "fr": "Mon/ma partenaire et moi échangeons des conseils."
+            },
+            "_id": "61fac493742b70b3aa969654"
+          },
+          {
+            "letter": "E",
+            "title": {
+              "en": "My partner and I cuddle or kiss often",
+              "fr": "Mon/ma partenaire et moi nous cajolons ou nous embrassons souvent."
+            },
+            "_id": "61fac493742b70b3aa969655"
+          }
+        ]
+      },
+      {
+        "letters": "AC",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695ad",
+        "options": [
+          {
+            "letter": "A",
+            "title": {
+              "en": "My partner tells me jokes and makes me laugh",
+              "fr": "Mon/ma partenaire me raconte des blagues et me fait rigoler."
+            },
+            "_id": "61fac4e3742b70b3aa969672"
+          },
+          {
+            "letter": "C",
+            "title": {
+              "en": "My partner tells me how much I mean to him/her",
+              "fr": "Mon/ma partenaire me dit à quel point je lui tiens à cœur."
+            },
+            "_id": "61fac4e3742b70b3aa969673"
+          }
+        ]
+      },
+      {
+        "letters": "BA",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695ae",
+        "options": [
+          {
+            "letter": "B",
+            "title": {
+              "en": " My partner listens to me, discusses and understands my feelings",
+              "fr": "Mon/ma partenaire me prête attention, me parle et comprend mes sentiments."
+            },
+            "_id": "61fac534742b70b3aa969692"
+          },
+          {
+            "letter": "A",
+            "title": {
+              "en": " My partner tries to avoid talking about tense/sad topics to keep me cheerful",
+              "fr": "Mon/ma partenaire cherche à éviter toute discussion autour de sujets tendus/tristes pour que je ne perde pas de bonne humeur."
+            },
+            "_id": "61fac534742b70b3aa969693"
+          }
+        ]
+      },
+      {
+        "letters": "AD",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695af",
+        "options": [
+          {
+            "letter": "A",
+            "title": {
+              "en": " My partner and I go on adventures together to keep the relationship fun",
+              "fr": "Mon/ma partenaire et moi partons pour des aventures ensemble pour garder la flamme dans notre relation."
+            },
+            "_id": "61fac5a5742b70b3aa9696b4"
+          },
+          {
+            "letter": "D",
+            "title": {
+              "en": "My partner and I share the house chores and responsibilities",
+              "fr": "Mon/ma partenaire et moi partageons les tâches domestiques et les responsabilités."
+            },
+            "_id": "61fac5a5742b70b3aa9696b5"
+          }
+        ]
+      },
+      {
+        "letters": "FA",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b0",
+        "options": [
+          {
+            "letter": "F",
+            "title": {
+              "en": "My partner and I spend a lot of time together",
+              "fr": "Mon/ma partenaire et moi passons énormément de temps ensemble."
+            },
+            "_id": "61fac5ec742b70b3aa9696d8"
+          },
+          {
+            "letter": "A",
+            "title": {
+              "en": "My partner does things for me that he doesn't usually enjoy doing",
+              "fr": "Mon/ma partenaire accepte de faire des choses pour moi qu'il/elle n'aime pas faire habituellement."
+            },
+            "_id": "61fac5ec742b70b3aa9696d9"
+          }
+        ]
+      },
+      {
+        "letters": "BF",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b1",
+        "options": [
+          {
+            "letter": "B",
+            "title": {
+              "en": "My partner and I find time to go through serious or difficult discussions",
+              "fr": "Mon/ma partenaire et moi consacrons du temps aux discussions sérieuses ou délicates."
+            },
+            "_id": "61fac630742b70b3aa9696fe"
+          },
+          {
+            "letter": "F",
+            "title": {
+              "en": "My partner and I go out together for a long walk, trip, dinner, etc",
+              "fr": "Mon/ma partenaire et moi partons ensemble pour une longue promenade, un voyage, un dîner, etc."
+            },
+            "_id": "61fac630742b70b3aa9696ff"
+          }
+        ]
+      },
+      {
+        "letters": "FD",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b2",
+        "options": [
+          {
+            "letter": "F",
+            "title": {
+              "en": "My partner and I go for a night out/ a date",
+              "fr": "Mon/ma partenaire et moi sortons ensemble pour une soirée ou un 'date'"
+            },
+            "_id": "61fac67d742b70b3aa969726"
+          },
+          {
+            "letter": "D",
+            "title": {
+              "en": "My partner stays in to help me finish a project before the deadline",
+              "fr": "Mon/ma partenaire reste à mon chevet afin de m'aider à boucler un projet avant la date limite."
+            },
+            "_id": "61fac67d742b70b3aa969727"
+          }
+        ]
+      },
+      {
+        "letters": "FC",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b3",
+        "options": [
+          {
+            "letter": "F",
+            "title": {
+              "en": "My partner surprises me and takes me away for the weekend",
+              "fr": "Mon/ma partenaire me fait la surprise et m'emmène en week-end."
+            },
+            "_id": "61fac6cd742b70b3aa969750"
+          },
+          {
+            "letter": "C",
+            "title": {
+              "en": "My partner expresses his love and commitment to me without a special occasion",
+              "fr": "Mon/ma partenaire m'exprime son amour et son dévouement sans occasion spéciale."
+            },
+            "_id": "61fac6cd742b70b3aa969751"
+          }
+        ]
+      },
+      {
+        "letters": "EF",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b4",
+        "options": [
+          {
+            "letter": "E",
+            "title": {
+              "en": "When my partner holds me in his arms and hugs me",
+              "fr": "Mon/ma partenaire me prend dans ses bras et me serre contre lui/elle."
+            },
+            "_id": "61fac709742b70b3aa96977d"
+          },
+          {
+            "letter": "F",
+            "title": {
+              "en": "When we are talking or doing something together",
+              "fr": "Nous discutons ou faisons une activité ensemble."
+            },
+            "_id": "61fac709742b70b3aa96977e"
+          }
+        ]
+      },
+      {
+        "letters": "CD",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fac144742b70b3aa9695b5",
+        "options": [
+          {
+            "letter": "C",
+            "title": {
+              "en": "My partner provides emotional support for me",
+              "fr": "Mon/ma partenaire me procure un soutien émotionnel."
+            },
+            "_id": "61fac740742b70b3aa9697ab"
+          },
+          {
+            "letter": "D",
+            "title": {
+              "en": "My partner provides practical support for me",
+              "fr": "Mon/ma partenaire me fournit un soutien concret."
+            },
+            "_id": "61fac740742b70b3aa9697ac"
+          }
+        ]
+      }
+    ]
+  },{
+    "_id": "61f9461c8f60f1c682f12706",
+    "name": "sociology",
+    "title": {
+      "en": "sociology",
+      "fr": "sociology",
+      "ar": "sociology"
+    },
+    "index": 4,
+    "questions": [
+      {
+        "letters": "ab",
+        "title": {
+          "en": "sociology-1",
+          "fr": "loveLangsociologyuage-1",
+          "ar": "sociology-1"
+        },
+        "_id": "61f946338f60f1c682f12708",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "61f946458f60f1c682f1270b"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "61f946458f60f1c682f1270c"
+          }
+        ]
+      },
+      {
+        "letters": "AE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107d5",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "My partner provides emotional support for me",
+              "fr": "Mon/ma partenaire me procure un soutien émotionnel."
+            },
+            "_id": "61fd584b59380f1614aec860"
+          },
+          {
+            "letter": "e",
+            "title": {
+              "en": "My partner provides practical support for me",
+              "fr": "Mon/ma partenaire me fournit un soutien concret."
+            },
+            "_id": "61fd584b59380f1614aec861"
+          }
+        ]
+      },
+      {
+        "letters": "BD",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107d6",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43a451853dda33deb379"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43a451853dda33deb37a"
+          }
+        ]
+      },
+      {
+        "letters": "CB",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107d7",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43ad51853dda33deb38a"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43ad51853dda33deb38b"
+          }
+        ]
+      },
+      {
+        "letters": "DE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107d8",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43b651853dda33deb39d"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43b651853dda33deb39e"
+          }
+        ]
+      },
+      {
+        "letters": "EC",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107d9",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43bf51853dda33deb3b2"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43bf51853dda33deb3b3"
+          }
+        ]
+      },
+      {
+        "letters": "BE",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107da",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43c951853dda33deb3c9"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43c951853dda33deb3ca"
+          }
+        ]
+      },
+      {
+        "letters": "AC",
+        "title": {
+          "en": "Would You Rather",
+          "fr": "Would You Rather",
+          "ar": "Would You Rather"
+        },
+        "_id": "61fbec0527e248b58a6107db",
+        "options": [
+          {
+            "letter": "a",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43d351853dda33deb3e2"
+          },
+          {
+            "letter": "b",
+            "title": {
+              "en": "test",
+              "fr": "test",
+              "ar": "test"
+            },
+            "_id": "620a43d351853dda33deb3e3"
+          }
+        ]
+      }
+    ]
+  }]

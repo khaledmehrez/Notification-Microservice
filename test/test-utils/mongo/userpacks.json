@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "624c5bf60d29383f829443fb",
+    "user": "62221be39537739e8674d981",
+    "__v": 0,
+    "boost": [
+      {
+        "expiration": "2022-05-08T17:10:49.414Z",
+        "enabledAfter": "2022-04-08T17:10:49.414Z",
+        "_id": "624c5bf99fd01e769f5f6003"
+      }
+    ],
+    "compatibilityReport": [
+      {
+        "expiration": "2022-05-08T17:10:49.414Z",
+        "enabledAfter": "2022-04-08T17:10:49.414Z",
+        "_id": "624c5bf99fd01e769f5f5f8a"
+      }
+    ],
+    "createdAt": "2022-04-08T17:10:49.414Z",
+    "planExpiration": "2022-05-10T17:10:49.414Z",
+    "recullingEnabled": false
+  },
+  {
+    "_id": "624c5bf60d29383f829443fc",
+    "user": "62221be39537739e8674d982",
+    "__v": 0,
+    "boost": [
+      {
+        "expiration": "2022-05-08T17:10:49.414Z",
+        "enabledAfter": "2022-04-08T17:10:49.414Z",
+        "_id": "624c5bf99fd01e769f5f6003"
+      }
+    ],
+    "compatibilityReport": [
+      {
+        "expiration": "2022-05-08T17:10:49.414Z",
+        "enabledAfter": "2022-04-08T17:10:49.414Z",
+        "_id": "624c5bf99fd01e769f5f5f8a"
+      }
+    ],
+    "createdAt": "2022-04-08T17:10:49.414Z",
+    "planExpiration": "2022-05-10T17:10:49.414Z",
+    "recullingEnabled": true
+  }
+]
